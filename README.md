@@ -1,6 +1,7 @@
 # neural_network_performance_guide_2
 Materials for RCC workshop "Performance Guidelines of Neural Network Models, Part 2
 ### Abstract
+Hyper-parameter selection impacts the performance of various types of neural network layers commonly used in state-of-the-art deep learning applications.
 
 ### Objectives:
 During the workshop participants will be able to:
