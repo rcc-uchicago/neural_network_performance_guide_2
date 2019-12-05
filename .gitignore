@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# hide files
+Deep-Learning-Performance-Guide.*
